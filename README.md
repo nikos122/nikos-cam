@@ -10,6 +10,5 @@ pip3 install requests
 pip3 install colorama
 cd nikos-cam
 python3 nikos.py
-Enjoy!!!
 
 If you edit my code and claim is yours then you're just a dumb script kiddie
